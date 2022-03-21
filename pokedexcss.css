@@ -94,3 +94,9 @@
     color: black;
 
 }
+body {
+
+    background-image: url("./wall.jpg");
+
+    background-size: 10rem;
+  }
